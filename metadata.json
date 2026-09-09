@@ -1,0 +1,6 @@
+{
+  "name": "السند النهائي",
+  "description": "تطبيق السند النهائي في التاريخ والجغرافيا لشهادة البكالوريا - إعداد الأستاذة عبيد زهرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
